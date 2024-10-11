@@ -1,2 +1,2 @@
 # noise
-test with perlin noise and map gengeration
+test with perlin noise and map generation
